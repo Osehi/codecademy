@@ -1,5 +1,4 @@
 div.heading {
-    border: 2px solid green;
     background-image: url('../img/pattern.jpeg');
     margin-top: 100px;
     max-height: 200px;
@@ -39,4 +38,20 @@ div.brushes > h3 {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
+}
+
+div.frames {
+    background-color: lightcoral;
+}
+
+div.frames > h1 {
+    color: white;
+}
+
+div.paint {
+    background-color: skyblue;
+}
+
+div.paint > h1 {
+    color: white;
 }
